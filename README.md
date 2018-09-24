@@ -8,4 +8,4 @@ Una volta scaricata la repository, per lanciare l'applicazione posizionarsi sopr
 
 -> l'editor si trovera' su localhost:3000
 
-JurassicSWE
+Marco Masiero, membro del gruppo JurassicSWE.
